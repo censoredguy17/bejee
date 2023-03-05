@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.select_tasks{
+    width: auto;
+}
+#messageModal{
+    z-index: 10000;
+}
+.modal_success{
+    background: darkgreen;
+    color: #fff;
+}
+.modal_danger{
+    background: red;
+    color: #fff;
+}
